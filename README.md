@@ -2,7 +2,7 @@
 Author:- Hamza Safwan
 04/05/2023  
 
-
+## Direct Live HTML page of report can be viewed [here](https://hamza-safwan.github.io/)
 
 ## Instructions
 
